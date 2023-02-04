@@ -1,0 +1,56 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<testsuite name="Cucumber" time="397.03" tests="7" skipped="0" failures="0" errors="0">
+<testcase classname="To Validate the login and add to kart functionality of Amazon" name="To validate the logout functionality of an application" time="117.659">
+<system-out><![CDATA[
+Given User login and navigate to homepage of application....................passed
+When User clicks on Sign out Button.........................................passed
+Then Verify Whether the user signout succesfully............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Validate the login and add to kart functionality of Amazon" name="To Validate the links in Login Page" time="49.345">
+<system-out><![CDATA[
+Given User Navigate to Home Page and opens the hyperlinks...................passed
+When User iterate the available links in Login Page.........................passed
+Then User Verify the Hyperlinks.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Validate the login and add to kart functionality of Amazon" name="To validate the Add-cart function" time="43.754">
+<system-out><![CDATA[
+Given User login and navigate to homepage of application....................passed
+When user selects the product and add the product to kart...................passed
+Then verify the added product...............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Validate the login and add to kart functionality of Amazon" name="To validate the Remove the product from cart function" time="41.936">
+<system-out><![CDATA[
+Given User login and navigate to homepage of application....................passed
+When user selects the product and add the product to kart...................passed
+And User Removes the Product from the Kart..................................passed
+Then Verify the removed Product.............................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Validate the login and add to kart functionality of Amazon" name="To Validation the Sort options of clothing Category" time="70.812">
+<system-out><![CDATA[
+Given User login and navigate to homepage of application....................passed
+When user navigates to the clothing session.................................passed
+And User selects the product by sorting option..............................passed
+Then Verfiy the sorted product by its value.................................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Validate the login and add to kart functionality of Amazon" name="To Validation the Filter options of clothing Category" time="38.929">
+<system-out><![CDATA[
+Given User login and navigate to homepage of application....................passed
+When user navigates to the clothing session.................................passed
+And User selects the product by filter option...............................passed
+Then Verfiy the filtered product is displayed...............................passed
+]]></system-out>
+</testcase>
+<testcase classname="To Validate the login and add to kart functionality of Amazon" name="To Validation the Filter options of clothing Category" time="33.95">
+<system-out><![CDATA[
+Given User login and navigate to homepage of application....................passed
+When user navigates to the clothing session.................................passed
+And User selects the product by filter option...............................passed
+Then Verify the Page navigation.............................................passed
+]]></system-out>
+</testcase>
+</testsuite>

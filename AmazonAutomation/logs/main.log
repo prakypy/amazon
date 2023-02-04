@@ -1,0 +1,8 @@
+2023-02-03 21:07:13,537 +0530 [main] INFO  (Hooks.java:22) - Screenshot Captured
+2023-02-03 21:07:13,549 +0530 [main] INFO  (Hooks.java:28) - Execution Ended
+2023-02-03 21:08:45,517 +0530 [main] INFO  (AmazonValidationSteps.java:39) - User Entered the username and password succefully
+2023-02-03 21:08:49,480 +0530 [main] INFO  (Hooks.java:22) - Screenshot Captured
+2023-02-03 21:08:51,985 +0530 [main] INFO  (AmazonValidationSteps.java:47) - SignOut is successfully
+2023-02-03 21:08:52,209 +0530 [main] INFO  (Hooks.java:22) - Screenshot Captured
+2023-02-03 21:08:52,388 +0530 [main] INFO  (Hooks.java:22) - Screenshot Captured
+2023-02-03 21:08:52,390 +0530 [main] INFO  (Hooks.java:28) - Execution Ended
